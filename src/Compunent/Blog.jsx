@@ -1,6 +1,6 @@
 import React from "react";
 
-const BLOGS = [{}];
+// const BLOGS = [{}];
 const Blog = () => {
   return <div></div>;
 };
